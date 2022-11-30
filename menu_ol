@@ -1,0 +1,55 @@
+<!DOCTIPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta content="IE=edge" http-equiv="X-UA-Compatible">
+  <meta name="viewport" content="width=device-width,initial-scale=1"
+  <meta name="google"content="notranslate">
+  <meta name="viewport" content="..."> <!--dispositivo móvel-->
+  <meta name="msapplication-tap-highlight" content="no">
+  <title>Olechak Design</title>
+  <link rel="stylesheet" href="css_duda_index"> 
+</head>
+<body>
+<div class="Name" style="text-align:center">
+<br><br><br><br>
+<h1>Eduarda Olechak</h1></div>
+<br>
+<div class="Hello" style="text-align:center"> Olá sou uma designer e pesquisadora entusiasta do Neurodesign.<br>
+Esse website em HTML foi feito do zero por mim como um exercício de aprendizagem.<br>
+Com o tempo vou incrementar CSS3 e um pouquinho de JavaScript.<br>
+Acesse o menu abaixo: 
+</div> 
+<br>
+<div class="MENU" style="text-align:center">
+  <big><code><strong>
+  <br><a href="EDUCAÇÃO_ol.html">EDUCAÇÃO</a><br>
+  <br><a href="EXPERIÊNCIA_ol.html">EXPERIÊNCIA</a><br>
+  <br><a href="SKILLS_ol.html">HABILIDADES</a></p1><br>
+  <br>
+  <code><strong><br><a href="https://youtu.be/x2P1lGGoyYw">PALESTRA NA HXCONF22 </a></p1><br>
+  <br><a href="https://www.linkedin.com/newsletters/6999201856895758336/">NEWSLETTER NEURODESENHISTA</a></p1><br>
+  </big></code></strong>
+<br><br>
+<footer>
+  <div class="social_media" style="text-align:center">
+    <a href="https://www.linkedin.com/in/eduardaolechak/"target="_blank">
+    <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png"
+    alt="Linkeding" style="width:flex;height:20px;"></a>
+    
+    <a href="https://www.behance.net/olechak" target="_blank">
+    <img src="data:image/png;base64,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"
+    alt="Behance" style="width:flex;height:20px;"></a>
+    
+    <a href="https://www.linkedin.com/newsletters/neurodesenhista-6999201856895758336/"target="_blank">
+    <img src="X.png"
+    alt="Lewsletter" style="width:flex;height:20px;"></a>
+    
+    <a href="https://github.com/Olechak/resume" target="_blank">
+    <img src="25231.png" alt="Github" style="width:flex;height:20px;"></a>
+    <br>
+   <div><br> 
+  <button href="url" download="nome-do-arquivo"> ⇩ Currículo.pdf</a>
+</div>
+</body>
+</footer></html>
